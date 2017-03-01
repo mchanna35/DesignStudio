@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title>DesignStudio</title>
+      <link rel="stylesheet"
+      href="style.css">
+    </head>
+    <body>
+      <h1 class="font another-class">Hello, World!</h1>
+      <p id="first">This is a paragraph<p/>
+      <p>
+        <a href="https://tumblr.com">
+          Knowledge
+        </a>
+      </p>
+      <p class="font">This is another</p>
+    </body>
+  </html>
