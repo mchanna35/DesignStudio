@@ -1,0 +1,34 @@
+h1 {
+  color: lavender;
+  background-color: orange;
+}
+
+html {
+  background-color: lime;
+  background-image: url("http://weknowyourdreams.com/image.php?pic=/images/stars/stars-07.jpg");
+  
+}
+
+p {
+  color: firebrick;
+}
+
+#first {
+  font-weight: bold;
+  background-image: url("http://images.r.cruisecritic.com/news/2016/princess-puppies.jpg");
+  width: 500px;
+  height: 300px;
+}
+
+.font {
+  font-family: Times, Helvetica;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color:red;
+}
